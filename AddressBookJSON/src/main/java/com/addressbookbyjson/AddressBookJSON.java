@@ -2,7 +2,7 @@ package com.addressbookbycsv;
 
 import java.util.Scanner;
 
-public class AddressBookCSV {
+public class AddressBookJSON {
 
     public static void main(String[] ar) {
         Scanner sc=new Scanner(System.in);
